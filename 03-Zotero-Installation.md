@@ -1,4 +1,4 @@
-# Up to speed with Zotero - quick start workshop's course notes - Zotero Installation
+# Zotero Installation
 
 ## How to install Zotero?
 
