@@ -27,13 +27,19 @@ In Zotero, you can create a new item by clicking on "File">"New Item" or on the 
 [Example]
 
 ### With a unique identifier (DOI, PMID, ISBN). 
-Documents are often attributed a unique identifier. 
+Documents are often attributed a unique identifier: this helps when you have a copy of this document and you want to add the reference to Zotero. 
 
-
+In Zotero, click on the magic wand icon in the top bar. A field will appear. In this field, type the identifier of the document you have at your disposal. Press enter. A new reference will be added to your library.
 
 [Example]
 
-### From a pdf
+### From a PDF
+If you have stored PDFs on your computer without directly adding them in Zotero with their metadata, it is sometimes possible to obtain comprehensive metadata afterwards. 
+
+You will need to add the PDF in Zotero, dragging it from a folder and dropping it in your library. Then, do a right-click on the newly added PDF file and click on "Retrieve metadata for PDF". Zotero will search for metadata and automatically create a reference containing the metadata along with the PDF file when possible. However, it might be that the PDF yoz added to your Zotero library is not machine-readable or is not recognized by Zotero. In that case, no metadata will be retrieved.
+
+You can also retrieve metadata for with several PDFs at the same time. 
+
 
 [Example]
 
