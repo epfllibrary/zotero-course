@@ -1,4 +1,4 @@
-# Conclusion, questions, etc.
+# Questions and conclusion
 
 ## Advanced Zotero features
 There are various Zotero features that were not included in this workshop, such as : 
@@ -17,8 +17,3 @@ The EPFL Library Teaching Team is always keen to support you in your use of Zote
 
 You can contact us by e-mail to ask your question and / or set an appointment : [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch) .
 
-## Useful links
-
-
-
-## Bibliography
