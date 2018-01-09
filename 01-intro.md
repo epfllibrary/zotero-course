@@ -3,13 +3,13 @@
 
 ## Learning objectives
 
-At the end of the course, participants will : 
+By the end of this workshop, participants will : 
 
-1. Install Zotero
-2. Create a Zotero library
-3. Collect references and metadata from various sources
-4. Cite and create bibliographies
-5. Choose a citation style
+1. install Zotero
+2. create a Zotero library
+3. collect references and metadata from various sources
+4. cite and create bibliographies
+5. choose a citation style
 
 
 ## Program
@@ -23,7 +23,7 @@ At the end of the course, participants will :
 | 09:45 | Exercice time |
 | **10:15** | **Break**|
 | 10:30 | Collect references |
-| 10:50 | From Zotero to a writer |
+| 10:50 | From Zotero to a word processor |
 | 11:10 | Citation styles |
-| 11:20 | Questions, evaluation and conclusion|
+| 11:20 | Questions, evaluation and conclusion |
 
