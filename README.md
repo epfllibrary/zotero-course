@@ -10,18 +10,19 @@ This training was created by the EPFL Library Teaching Team :
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)
 + Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)
    
-![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
+![logo-bibliotheque](img\logo-bibliotheque.png)![logo-EPFL](img\logo-EPFL.jpg)   
 
-## Version `0.99`
+## Version `1.0`
 The latest version of this document is available on **gitbook**.   
 You can read this file online or download it in PDF, ePub and Mobi format.
 
-*Versions' history*   
-**0.99**: version initiale (05.01.2018)   
+*Version history*   
+**0.99**: init. version (05.01.2018)
+
 
 
 ## License `CC BY`
-![logo-CC-BY](img/by.svg)   
+![logo-CC-BY](img\by.svg)   
 This document is available under the following license  [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
 Original files can be found here [https://github.com/grolimur/zotero-course](https://github.com/grolimur/zotero-course).   
 
