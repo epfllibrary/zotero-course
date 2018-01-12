@@ -1,4 +1,4 @@
-# Introduction
+## Comparing reference mangers
 
 | ![logo BibTeX](img/refman_bibtex.png) | ![logo EndNote](img/refman_endnote.jpg) | ![logo Mendeley](img/refman_mendeley.png) | ![logo ReadCube](img/refman_readcube.png) | ![logo Zotero](img/refman_zotero.png) |
 | :----: | :-----: | :------: | :------: | :----: |
@@ -11,4 +11,11 @@
 
 \* student discount: CHF 109.- (in Switzerland)   
 \** student discount: 30%
+
+## Zotero
+
+So, why Zotero?
+
+## Interface
+
 

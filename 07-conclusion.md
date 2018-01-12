@@ -1,19 +1,25 @@
-# Questions and conclusion
+This workshop was intended to give the basics to start working with Zotero.
 
 ## Advanced Zotero features
-There are various Zotero features that were not included in this workshop, such as : 
+
+There are various Zotero features that were not covered in this workshop, such as : 
 
 - Setting your Zotero account to sync your library 
 - Working in groups with Zotero
 - RSS feeds 
 - Using Zotero with LaTeX
-- Increase storage with WebDav
+- Increase storage space using a WebDav-enabled 3rd party platform
 - Adding notes and tags to references
+- Creating a workflow within Zotero
 - Annotating PDF files with Zotfile
 
-## Contact EPFL Library Teaching Team for help
+Those features will be covered in short modular workshops.
 
-The EPFL Library Teaching Team is always keen to support you in your use of Zotero and will also reply to your questions about citation in general. 
+## Support
 
-You can contact us by e-mail to ask your question and / or set an appointment : [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch) .
+The EPFL Library Training Team is always keen to support you in your use of Zotero and will also reply to your questions about citation in general.   
+Lab-centered workshop or training are also provided on demand.   
+
+You can contact us by e-mail: [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch).   
+We will answer your question or set an appoiintment depending on the specificity of the request.
 
