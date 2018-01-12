@@ -25,7 +25,7 @@ Solution 1: Search by "All fields & Tags"
 
 Solution 2: Advanced search: click on the magnifying glass / Edit - Search = CTRL + F
 
-[Image Fig 1]
+![fig4](img/Ex_Interface4.png)
 
 Try the advanced search. Save your search. 
 
@@ -50,19 +50,19 @@ Last tips: Zotero's interface can be easily personalized. You can:
 
 1. modify the order of your items/ references lists clicking on the Order button.
 
-[Image Fig 2]
+![fig2](img/Ex_Interface2.png)
 
 2. order your list of items/ references distinguishing the items with files attached or without files attached 
 (Files attached = PDF, notes, screenshot, etc. attached to each item by yourself or automatically when collecting the references on the web.)
 
-[Image Fig 3]
+![fig3](img/Ex_Interface3.png)
 ## Check the metadata of your item: Record Fields Doctype
 Now that you are familiar with your collections and the list of your items, let's have a look on the record of each of your item.
 
 Where do you see the metadata of each of your reference?
 Clicking on one of your references, you see that the third column is full of details like in the following example...
 
-[Image Fig 4]
+![fig4](img/Ex_Interface4.png)
 
 ###Exercice 1: Modify the type of an item and some fields of a record
 
