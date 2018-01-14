@@ -1,4 +1,4 @@
-# Zotero Installation
+# Installing Zotero
 
 ## How to install Zotero?
 
