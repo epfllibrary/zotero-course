@@ -4,8 +4,6 @@
 
 * [About](README.md)
     * [Introduction](01-intro/README.md)
-
-## REFEREENCE MANAGERS
     * [Comparing reference managers](02-comparing-refman/README.md)
 
 ## INSTALLATION
