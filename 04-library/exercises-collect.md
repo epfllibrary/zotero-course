@@ -1,6 +1,6 @@
 ##  Exercises
 
-### exercice 4.1: Collect references
+### exercise 4.1: Collect references
 
 Add 5 references in your Zotero library. Try adding references of various doctypes:   
 
@@ -11,7 +11,7 @@ Add 5 references in your Zotero library. Try adding references of various doctyp
 5. thesis   
 
 
-### exercice 4.2 : Search for a reference
+### exercise 4.2 : Search for a reference
 
 Find at least two ways of searching a reference in your library.   
 Try the advanced search and save the result.   

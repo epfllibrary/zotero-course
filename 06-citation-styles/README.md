@@ -3,6 +3,9 @@
 In this part, you will learn of to change citation styles and how to add new ones.   
 Citation styles change how citations appears in your texts and the way metadata is displayed when you create a bibliography. 
 
+![screenshot citation](../img/citation.JPG)
+
+>>>>>>> 8d7c3fc6aa1eefb6e27ef3c568dafc2b966f0ee8
 A citation style applies rules about which metadata to display for each document type as well as how to format the in-text citation and the reference. These citation styles can be defined by publishers, scientific societies or individuals, for instance. Theoretically, you could apply the citation rules manually, but Zotero will be faster and more consistent.   
 
 It is possible to modify or create one own's citation style, but this topic will be covered in another module. 
