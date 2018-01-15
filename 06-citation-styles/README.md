@@ -3,6 +3,7 @@
 In this part, you will learn of to change citation styles and how to add new citation styles. 
 
 ## Citation styles : what do they do ? 
+
 Citation styles change how citations appears in your texts and the way metadata is displayed when you create a bibliography. 
 
 [images]
@@ -12,6 +13,8 @@ Usually, a citation style will have rules about which metadata to display for ea
 It is possible to modify or create one own's citation style, but this will be the topic of another course. 
 
 ## Changing your style... from Zotero
+
+More than 8,900 styles are available for Zotero!   
 If you want to apply a citation style to bibliographies you directly create from your Zotero library, you need to select the citation style in Zotero.
 
 1. Open Zotero
@@ -21,6 +24,7 @@ If you want to apply a citation style to bibliographies you directly create from
 5. Click on "OK"
 
 ## Changing your style... in a document
+
 If you want to change the citation style in a document, you need to make the changes in the Word Processor / Zotero add-in. 
 
 1. Open the document which style you want to modify
@@ -32,15 +36,18 @@ If you want to change the citation style in a document, you need to make the cha
 Changes will be applied automatically.
 
 ## Finding a style suiting your needs
+
 There are more than 8000 Zotero styles available. Some of them might suits your needs and taste better than others. If you want to look for another style, you can check the [Zotero Style Repository](https://www.zotero.org/styles). In this repository you can search citation styles by title, by field and by feature. For each style, a preview is available. The repository is also directly searchable from Zotero. 
 
 ## Adding a new style in Zotero
+
 Citations styles can be added in two different ways :
  
 1. Directly from a .csl file saved on your computer
 2. From the Zotero Style Repository embedded in Zotero
 
 ### Directly from a .csl file saved on your computer
+
 If you dowloaded a .csl file you can add it to Zotero with the following steps : 
 
 1. Open Zotero
@@ -65,6 +72,4 @@ It is also possible to integrate a style directly from Zotero via the Zotero Sty
 6. Search for the style you want to add and click on it
 
 The new citation style is added to the list in Zotero and in the Zotero Word Processor in your writer,
-
-
 

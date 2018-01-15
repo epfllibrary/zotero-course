@@ -36,5 +36,6 @@ Zotero is **user-friendly** and **powerful**. Most ot the recent reference manag
 Zotero is **compatible with a large number of online resources**: as of January 2018, more than 500 fully compatible resources (more than any other reference manager).   
 It's **free**. Not only free of charge, but above all it's a free and open source software (no restriction due to the license agreement). This means that when you will leave EPFL, you will still be able to use it like you did here.   
 Zotero has also a **large and active community** of users. If you need help, you can quickly get an answer to the issues you face. If you need a feature, its implementation doesn't depend on the developers' willing to do it: you can ask for it (maybe another user already implemented it) or do it by yourself.   
-Zotero is **modular**: additional features can be added and shared through plugins ([https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins)).
+Zotero is **modular**: additional features can be added and shared through plugins ([https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins)).   
 
+Finally, and even if it's not covered in this workshop, it's important to know that Zotero is made for collaborative work, more than any other reference manager. This includes unlimited members and unlimited items for an unlimited number of group libraries. There are storage space limitations, though.

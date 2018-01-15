@@ -5,8 +5,6 @@ These course notes have been created for EPFL Library 's training [*Up to speed 
 
 ## Authors
 
-![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
-
 This training was created by the EPFL Library Teaching Team :   
 + Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
