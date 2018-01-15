@@ -10,7 +10,6 @@ You will also need to install the Zotero connector for your browser.
 2. Click on the "Install Zotero Connector" button 
 3. Autorize installation
 
-
 ## How to check if the installation worked ?
 
 Zotero should now be installed on your computer. To fully enjoy Zotero, the software should be plugged in your browser and your word processor (Microsoft Word, OpenOffice Writer, LibreOffice Writer). 
@@ -18,7 +17,6 @@ Zotero should now be installed on your computer. To fully enjoy Zotero, the soft
 1. Check Zotero is installed by opening the application on your computer
 2. Open your browser and check that Zotero appears on the top bar, next to the search bar
 3. Open your word processor and check if the Zotero plugin is installed. This plugin is also called "Word processor". Usually, after installing Zotero, a new tab will appear in your word processor. Depending on your software, Zotero might alternatively be shown with other "complements".
-
 
 ## What to do if Zotero's Word Processor is not installed?
 
@@ -29,4 +27,3 @@ If the installation of the Word Processor did not work, you can reinstall it fro
 3. Click on the *Cite* tab
 4. Click on the second tab Word Processor
 5. At this stage, you can choose to install or reinstall one word processor or more, according to the number you have on your computer.
-

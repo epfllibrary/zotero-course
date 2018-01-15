@@ -12,10 +12,12 @@ This training was created by the EPFL Library Teaching Team :
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)      
 
 ## Version `0.99`
+
+*updated on January 15, 2018* (version history](version.md))
+
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/u2swZ](https://go.epfl.ch/u2swZ)   
 You can read this file online or download it in PDF, ePub and Mobi format.
 
-see [version history](version.md)
 
 ## License `CC BY`
 ![logo-CC-BY](img/cc-by.svg)   

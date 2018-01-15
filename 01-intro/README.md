@@ -1,6 +1,3 @@
-# Up to speed with Zotero - quick start workshop's course notes - Introduction
-
-
 ## Learning objectives
 
 By the end of this workshop, participants will : 

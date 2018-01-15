@@ -10,30 +10,20 @@ Which option should you select?
 
 ### exercice 4.4 : "Duplicate Items" collection 
 
-What is this file made for?
+What is this collection made for?
 
 
----
+### exercice 4.5: Modify a record
 
-Now that you are familiar with your collections and the list of your items, let's have a look on the record of each of your item.
-
-Where do you see the metadata of each of your reference?
-Clicking on one of your references, you see that the third column is full of details like in the following example...
-
-![fig4](img/Ex_Interface4.png)
-
-
-### exercice 4.5: Modify the type of an item and some fields of a record
-
-Depending on the metadata found on the webpage by Zotero, some modifications of a record in your Library can be necessary. Check the items you just collected. Is the item type field always correct? If not, modify it.   
-Which are the main fields for the reference of a journal article?
+Now that you are familiar with your collections and the list of your items, let's have a look on the record of each of your item.   
+Where do you see the metadata of each of your reference?   
+Depending on the metadata found on the webpage by Zotero, some modifications of a record in your Library can be necessary. Are the items you just collected correct and complete?   
+Which are the main fields for the reference of a journal article? And for a thesis, a report, a ?   
 
 
 ### exercice 4.6: Keep track of your readings
 
-Explore various possibilities of keeping track of your readings: Add a note on one item from your Library. 
-
-Solution: Click on a item and consult its record. Click on the "Note" page of the record and write some notes. A new attached file is created. When searching it in your items list, "All Fields" search includes the keywords present in your notes :)
+Explore various possibilities of keeping track of your readings: Add a note on one item from your Library.   
 
 
 ---
