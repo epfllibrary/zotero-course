@@ -5,7 +5,7 @@ There are several ways to add references from a Zotero library in a word process
 
 ---
 
-##Create a bibliography and cite in Word/libreoffice 
+## Create a bibliography and cite in Word/libreoffice 
 
 How do Zotero and the word processor interact? First, both Zotero and the word processor have to be turned on. Then, to be able to use the interactive features, you need to have a Zotero button in your word processor. Can you see it? If not, in Zotero: edit --> preferences --> citation --> word processor: reinstall if this is not done.
 
@@ -18,7 +18,7 @@ Solution 1: drag & drop
 Solution 2: right click on the folder --> Create Bibliography from Selected Items --> output method: copy in the clipboard --> paste in the word processor.
 
 
-###Exercice 5.2:  
+### Exercice 5.2:  
 
 Insert 3 citations and then create a bibliography
 
