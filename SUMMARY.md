@@ -13,6 +13,7 @@
 ## DIG INTO ZOTERO
 
  * [Creating a Zotero library](04-library/README.md)
+ * [Exercises part 1](X-exercises-4.md)
  * [From Zotero to the word processor](05-wordprocessor/README.md)
  * [optional exercise (for LaTeX users only)](05-wordprocessor/01-latex.md)
  * [Citation styles](06-citation-styles/README.md)
