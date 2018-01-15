@@ -1,11 +1,11 @@
 ## Exercises
 
-### exercice 5.1: Create a bibliography without citing 
+### exercise 5.1: Create a bibliography without citing 
 
 Generate a bibliography in your word processor by selecting at least 3 references from Zotero. There are at least 2 ways to do it.
 
 
-### exercice 5.2: Cite while you write
+### exercise 5.2: Cite while you write
 
 Insert 3 citations and then create a bibliography
 
