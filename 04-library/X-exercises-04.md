@@ -29,7 +29,6 @@ Your Zotero Library is organized in columns: first colum is usually the arboresc
 
 Create a collection. Put some of your references in this new collection. Click on one of the references and delete it from the collection, but not from your Library. Which option should you select?
 
-Solution: "Remove item from Collection" // "Move item to trash" 
 
 ###Exercice 4.4 : "Duplicate Items" collection 
 What is this file  made for?
@@ -41,7 +40,7 @@ Now that you are familiar with your collections and the list of your items, let'
 Where do you see the metadata of each of your reference?
 Clicking on one of your references, you see that the third column is full of details like in the following example...
 
-![fig4](img/Ex_Interface4.png)
+![fig4](../img/Ex_Interface4.png)
 
 ###Exercice 4.5: Modify the type of an item and some fields of a record
 
