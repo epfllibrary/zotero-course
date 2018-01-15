@@ -1,15 +1,11 @@
 ## Exercises
 
-### Exercice 5.1: Create a bibliography without citing 
+### exercice 5.1: Create a bibliography without citing 
 
 Generate a bibliography in your word processor by selecting at least 3 references from Zotero. There are at least 2 ways to do it.
 
-Solution 1: drag & drop
 
-Solution 2: right click on the folder --> Create Bibliography from Selected Items --> output method: copy in the clipboard --> paste in the word processor.
-
-
-### Exercice 5.2:  
+### exercice 5.2: Cite while you write
 
 Insert 3 citations and then create a bibliography
 
@@ -19,11 +15,13 @@ Insert 3 citations and then create a bibliography
 
 1. Generate a bibliography
 
-Solution: Zotero button --> add/edit citation --> select a style --> select a reference (3 times), then Zotero button --> add/edit bibliography
-
 
 ### exercise 5.3 (for LaTeX users only)   
 
 Even if working with LaTeX is not covered in this workshop, try to find how to integrate Zotero in your LaTeX workflow.   
 What do you need to do?
+
+
+---
+*Answers and personal notes*
 

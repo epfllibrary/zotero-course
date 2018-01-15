@@ -1,5 +1,3 @@
-# Installing Zotero
-
 ## How to install Zotero?
 
 1. Go on [https://www.zotero.org/download/](https://www.zotero.org/download/) 

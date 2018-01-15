@@ -15,12 +15,13 @@
 
 ## Why a reference manager?
 
-Zotero is a reference manager. You can expect from a reference manager to :   
-* add/import references automatically (or very easily)
-* create a bibliography automatically (or very easily)
-* help you cite while you write a paper
+Zotero is a reference manager. When you use a reference manager, the following tasks are (more or less) a 1-click process:   
 
-All these technical tasks should be done by the software, but remember that **you are the brain**. This means that you should:
+* add/import references
+* create a bibliography
+* cite while you write a paper
+
+All these technical tasks should be done by the software, but remember that **you are the brain**. This means that you should:   
 
 * check if the reference data are correct and complete
 * read papers

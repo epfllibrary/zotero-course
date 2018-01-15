@@ -8,17 +8,20 @@
 
 ## INSTALLATION
 
- * [Installing Zotero](03-installation.md)
+* [Installing Zotero](03-installation.md)
 
 ## DIG INTO ZOTERO
 
- * [Creating a Zotero library](04-library/README.md)
- * [From Zotero to the word processor](05-wordprocessor/README.md)
- * [optional exercise (for LaTeX users only)](05-wordprocessor/01-latex.md)
- * [Citation styles](06-citation-styles/README.md)
+* [Creating a Zotero library](04-library/README.md)
+  * [exercises](04-library/exercises-collect.md)
+  * [exercises](04-library/exercises-manage.md)
+* [From Zotero to the word processor](05-wordprocessor/README.md)
+  * [exercises](05-wordprocessor/exercises.md)
+* [Citation styles](06-citation-styles/README.md)
+  * [exercises](06-citation-styles/exercises.md)
 
 ## THE END (SO FAR...)
 
 * [Conclusion](07-conclusion.md)
 * [References & useful links](X-references.md)
-
+* [Document version history](version.md)
