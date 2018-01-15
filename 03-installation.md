@@ -18,8 +18,6 @@ Zotero should now be installed on your computer. To fully enjoy Zotero, the soft
 2. Open your browser and check that Zotero appears on the top bar, next to the search bar
 3. Open your word processor and check if the Zotero plugin is installed. This plugin is also called "Word processor". Usually, after installing Zotero, a new tab will appear in your word processor. Depending on your software, Zotero might alternatively be shown with other "complements".
 
-## What to do if Zotero's Word Processor is not installed?
-
 If the installation of the Word Processor did not work, you can reinstall it from Zotero itself.   
 
 1. Open Zotero
