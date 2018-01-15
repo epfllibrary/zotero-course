@@ -1,8 +1,9 @@
-# UP TO SPEED WITH ZOTERO
+# UP TO SPEED WITH ZOTERO - quick start workshop
 
 ## INTRODUCTION
 
 * [About](README.md)
+    * [version history](version.md)
 * [Introduction](01-intro/README.md)
 * [Comparing reference managers](02-comparing-refman/README.md)
 

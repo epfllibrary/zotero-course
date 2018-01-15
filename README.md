@@ -1,23 +1,23 @@
-# Up to speed with Zotero - quick start workshop's course notes 
+# Up to speed with Zotero 
 
 ## Description
 These course notes have been created for EPFL Library 's training [*Up to speed with Zotero - quick start workshop*](https://library.epfl.ch/doctor-zotero/en), in Lausanne, Switzerland. Slides for this training are available on HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)). 
 
 ## Authors
+
+![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
+
 This training was created by the EPFL Library Teaching Team :   
 + Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
-+ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)   
-   
-![logo-bibliotheque](img/logo-bibliotheque.png)![logo-EPFL](img/logo-EPFL.jpg)   
++ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)      
 
 ## Version `0.99`
-The latest version of this document is available on **gitbook**.   
+The latest version of this document is available on **gitbook**: [https://go.epfl.ch/u2swZ](https://go.epfl.ch/u2swZ)   
 You can read this file online or download it in PDF, ePub and Mobi format.
 
-*Versions' history*   
-**0.99**: version initiale (05.01.2018)   
+see [version history](version.md)
 
 ## License `CC BY`
 ![logo-CC-BY](img/cc-by.svg)   
