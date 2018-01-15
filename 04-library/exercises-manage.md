@@ -37,5 +37,5 @@ Solution: Click on a item and consult its record. Click on the "Note" page of th
 
 
 ---
-*Answers and perosnal notes*
+*Answers and personal notes*
 

@@ -1,4 +1,4 @@
-This workshop was intended to give the basics to start working with Zotero.
+This workshop was intended to give you the basics to start working with Zotero.
 
 ## Advanced Zotero features
 
@@ -18,8 +18,8 @@ Those features will be covered in short modular workshops.
 ## Support
 
 The EPFL Library Training Team is always keen to support you in your use of Zotero and will also reply to your questions about citation in general.   
-Lab-centered workshop or training are also provided on demand.   
+Lab-centered workshop or support are also provided on demand.   
 
 You can contact us by e-mail: [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch).   
-We will answer your question or set an appoiintment depending on the specificity of the request.
+We will answer your question or set an appointment depending on the specificity and complexity of your request.
 
