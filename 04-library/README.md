@@ -2,6 +2,8 @@
 
 Your Zotero library will contain all the references you add into your library. You can create subsets of your library by adding "collections".
 
+![zotero interface](../img/interface/zotero-interface.png)
+
 
 ## Collecting references
 
