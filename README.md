@@ -11,9 +11,9 @@ This training was created by the EPFL Library Teaching Team :
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)      
 
-## Version `0.99`
+## Version `1.0`
 
-*updated on January 15, 2018* (version history](version.md))
+*updated on January 16, 2018* ([version history](version.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/u2swZ](https://go.epfl.ch/u2swZ)   
 You can read this file online or download it in PDF, ePub and Mobi format.

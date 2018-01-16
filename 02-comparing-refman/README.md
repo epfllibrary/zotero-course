@@ -33,6 +33,8 @@ It is important to understand that this kind of software is made to manage a bib
 
 ## Why Zotero?
 
+![zotero interface](../img/interface/zotero-interface.png)
+
 Zotero is **user-friendly** and **powerful**. Most ot the recent reference managers chose a similar interface or workflow.   
 Zotero is **compatible with a large number of online resources**: as of January 2018, more than 500 fully compatible resources (more than any other reference manager).   
 It's **free**. Not only free of charge, but above all it's a free and open source software (no restriction due to the license agreement). This means that when you will leave EPFL, you will still be able to use it like you did here.   
