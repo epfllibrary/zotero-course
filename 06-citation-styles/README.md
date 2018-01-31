@@ -1,11 +1,11 @@
 ## Citation styles
 
-In this part, you will learn of to change citation styles and how to add new ones.   
-Citation styles change how citations appears in your texts and the way metadata is displayed when you create a bibliography. 
+In this part, you will learn how to change citation styles and how to add new ones.   
+Citation styles change how citations appears in your texts and the way metadata is displayed when you create a bibliography.
 
 A citation style applies rules about which metadata to display for each document type as well as how to format the in-text citation and the reference. These citation styles can be defined by publishers, scientific societies or individuals, for instance. Theoretically, you could apply the citation rules manually, but Zotero will be faster and more consistent.   
 
-It is possible to modify or create one own's citation style, but this topic will be covered in another module. 
+It is possible to modify or create one's own citation style, but this topic will be covered in another module.
 
 ## Changing your style... from Zotero
 
@@ -20,7 +20,7 @@ If you want to apply a citation style to bibliographies you directly create from
 
 ## Changing your style... in a document
 
-If you want to change the citation style in a document, you need to make the changes in the word processor / Zotero add-in. 
+If you want to change the citation style in a document, you need to make the changes in the word processor / Zotero add-in.
 
 1. Open the document in the word processor
 2. Go on the "Zotero" tab
@@ -32,7 +32,7 @@ Changes will be applied automatically.
 
 ## Finding a style suiting your needs
 
-There are so many citation styles available for Zotero, some might suits your needs and taste better than others. If you want to look for another style, you can check the [Zotero Style Repository](https://www.zotero.org/styles). In this repository you can search citation styles by title, format and field. For each style, a preview is available. The repository is also directly searchable from Zotero. 
+There are so many citation styles available for Zotero, some might suits your needs and look better than others. If you want to look for another style, you can check the [Zotero Style Repository](https://www.zotero.org/styles). In this repository you can search citation styles by title, format and field. For each style, a preview is available. The repository is also directly searchable from Zotero. 
 
 ## Adding a new style in Zotero
 
@@ -44,7 +44,7 @@ Citations styles can be added in 3 different ways :
 
 ### Directly from a .csl file saved on your computer
 
-If you dowloaded a .csl file you can add it to Zotero with the following steps : 
+If you dowloaded a .csl file you can add it to Zotero with the following steps :
 
 1. Open Zotero
 2. Go to *Edit > Preferences*
@@ -58,7 +58,7 @@ The new citation style is added to the list in Zotero and in the word processor.
 
 ### From the Zotero Style Repository
 
-It is also possible to integrate a style directly from Zotero via the Zotero Style Repository with the following steps : 
+It is also possible to integrate a style directly from Zotero via the Zotero Style Repository with the following steps :
 
 1. Open Zotero
 2. Go to *Edit > Preferences*
@@ -70,4 +70,3 @@ It is also possible to integrate a style directly from Zotero via the Zotero Sty
 The new citation style is added to the list in Zotero and in the word processor.
 
 If you choose to use the online Zotero Style Repository, go to [https://zotero.org/styles](https://zotero.org/styles) and skip steps 1-5 above.
-
