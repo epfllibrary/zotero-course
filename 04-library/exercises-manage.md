@@ -21,9 +21,9 @@ Depending on the metadata found on the webpage by Zotero, some modifications of 
 Which are the main fields for the reference of a journal article? And for a thesis, a report, a ?   
 
 
-### exercise 4.6: Keep track of your readings
+### exercise 4.6: Comment your references
 
-Explore various possibilities of keeping track of your readings: Add a note on one item from your Library.   
+Add insightful comments to your references: Add a note on one item from your Library
 
 
 ---
