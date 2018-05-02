@@ -9,7 +9,7 @@ It is possible to modify or create one's own citation style, but this topic will
 
 ## Changing your style... from Zotero
 
-More than 8,900 styles are available for Zotero!   
+More than 9'000 styles are available for Zotero!   
 If you want to apply a citation style to bibliographies you directly create from your Zotero library, you need to select the citation style in Zotero.
 
 1. Open Zotero
