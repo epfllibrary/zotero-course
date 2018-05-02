@@ -23,3 +23,8 @@ The "blog francophone" de Zotero for more information:
 Plugins for Zotero to add features:   
 [https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins)    
 
+## Version history
+
+**0.99**: initial version (05.01.2018)   
+**1.00**: 1st public version (16.01.2018)  
+**2.00**: 2nd public version (02.05.2018)
