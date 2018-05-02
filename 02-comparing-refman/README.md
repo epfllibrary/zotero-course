@@ -7,7 +7,7 @@
 | free of charge | $249.95* | free of charge | $55/year** | free of charge |
 | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) |
 | integrated<br/>with<br/><br/><br/>LaTeX | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>LaTeX |
-| 9'o00+<br/>citation<br/>styles | 6,000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles |
+| 9'000+<br/>citation<br/>styles | 6,000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles |
 
 \* student discount: CHF 109.- (in Switzerland)   
 \** student discount: 30%
