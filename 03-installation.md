@@ -21,7 +21,7 @@ Zotero should now be installed on your computer. To fully enjoy Zotero, the soft
 If the installation of the Word Processor did not work, you can reinstall it from Zotero itself.   
 
 1. Open Zotero
-2. Go to *Edit > Preferences*
+2. Go to *Edit > Preferences* (or *Zotero > Preferences* on Mac OS X)
 3. Click on the *Cite* tab
 4. Click on the second tab Word Processor
 5. At this stage, you can choose to install or reinstall one word processor or more, according to the number you have on your computer.
