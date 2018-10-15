@@ -17,6 +17,11 @@ Find at least two ways of searching a reference in your library.
 Try the advanced search and save the result.   
 The collection created from that search is dynamic: every new reference matching the query you used in the avdanced search will be added automatically in this collection.
 
+### exercise 4.3 : Check for PDFs
+
+Select a batch of references with no attachments
+Use the "Find available PDFs" feature to check PDFs availability
+
 
 ---
 *Answers and personal notes*
