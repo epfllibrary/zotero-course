@@ -53,3 +53,8 @@ In Zotero, you can create a new item by clicking on *File > New Item* or on the 
 
 Example : a report from the [Swiss Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.3862240.html)
 
+### Retrieve PDFs 
+
+In some cases, you might want to store a copy of the full text associated with the bibliographic reference. It is possible to retrieve and add full text PDFs in two ways. 
+1. While adding a bibliographic reference from the browser.
+2. Later on, doing a right-click on a reference (or a batch of references) and clicking on "Find available PDF"
