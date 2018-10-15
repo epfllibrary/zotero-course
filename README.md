@@ -13,7 +13,7 @@ This training was created by the EPFL Library Teaching Team :
 
 ## Version `2.01`
 
-*updated on June 18, 2018* ([version history](X-references.md))
+*updated on October 15, 2018* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/u2swZ](https://go.epfl.ch/u2swZ)   
 You can read this file online or download it in PDF, ePub and Mobi format.
