@@ -40,7 +40,7 @@ Example : the ISBN of a book, DOI of a scientific paper or the PMID of a biomedi
 
 If you have stored PDFs on your computer without directly adding them in Zotero with their metadata, it's often possible to obtain comprehensive metadata afterwards. 
 
-You need to add the PDF in Zotero, by dragging it from a folder and dropping it in your library. Then, do a right-click on the newly added PDF file and click on "Retrieve metadata for PDF". Zotero searches for metadata and automatically create a reference containing the metadata along with the PDF file when possible. However, it might be that the PDF you added to your Zotero library is not machine-readable or is not recognized by Zotero. In that case, no metadata will be retrieved. You can also retrieve metadata for several PDFs at the same time.
+You need to add the PDF in Zotero, by dragging it from a folder and dropping it in your library. Zotero automatically searches for metadata and automatically create a reference containing the metadata along with the PDF file when possible. However, it might be that the PDF you added to your Zotero library is not machine-readable or is not recognized by Zotero. In that case, no metadata will be retrieved. You can also retrieve metadata for several PDFs at the same time.
 
 Example : a PDF sent by a colleague
 
