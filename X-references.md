@@ -29,3 +29,4 @@ Plugins for Zotero to add features:
 **1.00**: 1st public version (16.01.2018)  
 **2.00**: 2nd public version (02.05.2018)
 **2.01**: minor corrections (18.06.2018)
+**2.02**: nitpicking by Caroline (16.10.2018)
