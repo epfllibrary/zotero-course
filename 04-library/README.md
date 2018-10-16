@@ -14,7 +14,7 @@ The best is to collect references while you are in the process of looking for in
 
 ### ... with Zotero Connector
 
-The Zotero Connector is the plugin that you installed in your browser. This plugin will detect the references available on the page you are visiting. The quality of the metadata depends on what the sources you visit.   
+The Zotero Connector is the plugin that you installed in your browser. This plugin will detect the references available on the page you are visiting. The quality of the metadata depends on the sources you visit.   
 Open Zotero and click on the Zotero connector icon in your browser : the reference will be automatically sent to your Zotero.
 
 Example : an article from [Cytology](https://doi.org/10.1007/s00004-009-0012-x)
