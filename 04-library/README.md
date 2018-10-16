@@ -22,7 +22,7 @@ Example : an article from [Cytology](https://doi.org/10.1007/s00004-009-0012-x)
 
 ### ... using RIS or BibTeX 
 
-Some databases or catalogs can provide you with a downloable file containing one or more references. The most common formats for these kind of files are RIS (.ris) or BibTeX (.bib). It is most useful for large scale exports. 
+Some databases or catalogs can provide you with a downloadable file containing one or more references. The most common formats for these kind of files are RIS (.ris) or BibTeX (.bib). It is most useful for large scale exports. 
 
 Example : here is a [sample file to download](https://github.com/epfllibrary/zotero-course/blob/master/docs/references.zip)
 
