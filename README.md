@@ -5,15 +5,16 @@ These course notes have been created for EPFL Library 's training [*Up to speed 
 
 ## Authors
 
-This training was created by the EPFL Library Teaching Team :   
+This training was created by the (former) EPFL Library Teaching Team :   
 + Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
-+ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)      
++ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
+and will be modified by the current team. 
 
-## Version `2.03`
+## Version `2.04`
 
-*updated on December 5, 2018* ([version history](X-references.md))
+*updated on February 22, 2019* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
 You can read this file online or download it in PDF, ePub and Mobi format.
