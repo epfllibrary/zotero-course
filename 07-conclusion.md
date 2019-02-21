@@ -13,7 +13,7 @@ There are various Zotero features that were not covered in this workshop, such a
 - How to use annotated PDFs within Zotero
 - Advanced PDF management with Zotfile
 
-Those features will be covered in short modular workshops.
+Don't hesitate to ask us if you want explanations about these features.
 
 ## Support
 
