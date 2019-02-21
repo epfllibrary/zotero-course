@@ -5,7 +5,7 @@ Citation styles change how citations appears in your texts and the way metadata 
 
 A citation style applies rules about which metadata to display for each document type as well as how to format the in-text citation and the reference. These citation styles can be defined by publishers, scientific societies or individuals, for instance. Theoretically, you could apply the citation rules manually, but Zotero will be faster and more consistent.   
 
-It is possible to modify or create one's own citation style, but this topic will be covered in another module.
+It is possible to modify or create one's own citation style, but we don't cover this topic in this course.
 
 ## Changing your style... from Zotero
 
