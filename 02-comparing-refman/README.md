@@ -40,3 +40,5 @@ Zotero has also a **large and active community** of users. If you need help, you
 Zotero is **modular**: additional features can be added and shared through plugins ([https://www.zotero.org/support/plugins](https://www.zotero.org/support/plugins)).   
 
 Finally, and even if it's not covered in this workshop, it's important to know that Zotero is made for collaborative work, more than any other reference manager. This includes unlimited members and unlimited items for an unlimited number of group libraries. There are storage space limitations, though.
+
+All the reasons above explain why we choose to focus on Zotero.
