@@ -10,6 +10,7 @@ This training was created by the (former) EPFL Library Teaching Team :
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
+
 and will be modified by the current team. 
 
 ## Version `2.04`
