@@ -31,3 +31,4 @@ Plugins for Zotero to add features:
 **2.01**: minor corrections (18.06.2018)
 **2.02**: nitpicking by Caroline (16.10.2018)
 **2.03**: minor updates (05.12.2018)
+**2.04**: minor updates for forthcoming training (21.02.2019)
