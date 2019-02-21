@@ -9,13 +9,13 @@ Your Zotero library will contain all the references you add into your library. Y
 
 A reference consists of metadata describing a document and allowing you to easily find the document later. Zotero structures the metadata you collect about documents. When you cite your documents with Zotero, it will then generate consistent bibliographies. Zotero also allows you to store digital files along with the references.
 
-The best is to collect references while you are in the process of looking for information. By that, we mean that you will be more efficient if you directly collect the metadata while you are on the website / database / library catalog where you find your documents because you won't need to find the reference a second time afterward.
+The best is to collect references while you are in the process of looking for information. By that, we mean that you will be more efficient if you directly collect the metadata while you are on the website / database / library catalog where you find your documents because you won't need to find the reference a second time afterwards.
 
 
 ### ... with Zotero Connector
 
 The Zotero Connector is the plugin that you installed in your browser. This plugin will detect the references available on the page you are visiting. The quality of the metadata depends on the sources you visit.   
-Open Zotero and click on the Zotero connector icon in your browser : the reference will be automatically sent to your Zotero.
+Open Zotero and click on the Zotero connector icon in your browser : the reference will be automatically sent to your Zotero library.
 
 Example : an article from [Cytology](https://doi.org/10.1007/s00004-009-0012-x)
 
@@ -33,7 +33,7 @@ Documents are often attributed a unique identifier: this helps when you have a c
 
 In Zotero, if you click on the magic wand icon in the top bar, a field appears. Type the identifier of the document. Press enter. A new reference will be added to your library.
 
-Example : the ISBN of a book, DOI of a scientific paper or the PMID of a biomedical paper
+Example : the ISBN of a book, DOI of a scientific paper or the PMID of a biomedical paper. 
 
 
 ### ... from a PDF
@@ -45,7 +45,7 @@ You need to add the PDF in Zotero, by dragging it from a folder and dropping it 
 Example : a PDF sent by a colleague
 
 
-### Become a librarian : add references manually
+### ... manually
 
 Sometimes, there is no available metadata encoded in the page you are visiting or the document you have in your hands is not indexed in a digital catalog. You will need to create or edit the reference yourself.   
 
