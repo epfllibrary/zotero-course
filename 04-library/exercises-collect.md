@@ -20,6 +20,7 @@ The collection created from that search is dynamic: every new reference matching
 ### exercise 4.3 : Check for PDFs
 
 Select a batch of references with no attachments
+
 Use the "Find available PDFs" feature to check PDFs availability
 
 
