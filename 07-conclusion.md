@@ -4,14 +4,14 @@ This workshop was intended to give you the basics to start working with Zotero.
 
 There are various Zotero features that were not covered in this workshop, such as : 
 
-- Setting your Zotero account to sync your library 
+- Setting up your Zotero account to sync your library 
 - Working in groups with Zotero
 - RSS feeds 
-- Using Zotero with LaTeX
 - Increase storage space using a WebDav-enabled 3rd party platform
 - Adding notes and tags to references
 - How to use annotated PDFs within Zotero
 - Advanced PDF management with Zotfile
+- Using Zotero with LaTeX
 
 Don't hesitate to ask us if you want explanations about these features.
 
