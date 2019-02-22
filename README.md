@@ -1,7 +1,7 @@
 # Up to speed with Zotero
 
 ## Description
-These course notes have been created for EPFL Library 's training [*Up to speed with Zotero - quick start workshop*](https://library.epfl.ch/doctor-zotero/en), in Lausanne, Switzerland. Slides for this training are available on HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
+These course notes have been created for EPFL Library's training [*Up to speed with Zotero - quick start workshop*](https://library.epfl.ch/doctor-zotero/en), in Lausanne, Switzerland. Slides for this training are available on HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
 
 ## Authors
 
