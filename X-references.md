@@ -25,11 +25,18 @@ Plugins for Zotero to add features:
 
 ## Version history
 
-**0.99**: initial version (05.01.2018)   
-**1.00**: 1st public version (16.01.2018)  
+**0.99**: initial version (05.01.2018) 
+
+**1.00**: 1st public version (16.01.2018) 
+
 **2.00**: 2nd public version (02.05.2018)
+
 **2.01**: minor corrections (18.06.2018)
+
 **2.02**: nitpicking by Caroline (16.10.2018)
+
 **2.03**: minor updates (05.12.2018)
+
 **2.04**: minor updates for forthcoming training (21.02.2019)
-**2.05**: some minor updates for forthcoming training (25.09.2019)
+
+**2.05**: some cosmetic updates for forthcoming training (25.09.2019)
