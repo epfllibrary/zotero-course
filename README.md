@@ -18,7 +18,7 @@ and will be modified by the current team.
 *updated on September 25, 2019* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
-You can read this file online or download it in [PDF](https://legacy.gitbook.com/download/pdf/book/fbib/up-to-speed-with-zotero), ePub and Mobi format.
+You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
 
 
 ## License `CC BY`
