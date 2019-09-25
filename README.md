@@ -24,5 +24,5 @@ You can read this file online or download it in PDF, ePub and Mobi format.
 ## License `CC BY`
 ![logo-CC-BY](img/cc-by.svg)   
 This document is available under the following license  [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
-The source files can be found here [https://github.com/grolimur/zotero-course](https://github.com/grolimur/zotero-course).   
+The source files can be found here [https://github.com/epfllibrary/zotero-course](https://github.com/epfllibrary/zotero-course).   
 **Feel free to reuse and remix them!**   
