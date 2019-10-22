@@ -13,7 +13,7 @@ This training was created by the EPFL Library Teaching Team :
 
 and will be modified by the current team. 
 
-## Version `2.05`
+## Version `2.06`
 
 *updated on October 22, 2019* ([version history](X-references.md))
 
