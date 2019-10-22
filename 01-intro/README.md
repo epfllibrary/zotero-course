@@ -12,15 +12,15 @@ By the end of this workshop, participants will :
 
 | Time | Activity | 
 | :------- | :---- | 
-| 09:30 | Introduction | 
-| 09:35 | Comparing reference management softwares | 
-| 09:45 | Zotero Installation |
-| 10:00 | Create a Zotero library |
-| 10:05 | Exercise time (4.1 - 4.3)|
-| 10:20 | Collect references |
-| **10:35** | **Break**|
-| 10:50 | Exercise time (4.4 - 4.6) |
-| 11:00 | From Zotero to a word processor (5.1 - 5.3) |
-| 11:10 | Citation styles (6.1 - 6.2) |
-| 11:20 | Questions, evaluation and conclusion |
+| 00:00 | Introduction | 
+| 00:05 | Comparing reference management softwares | 
+| 00:15 | Zotero Installation |
+| 00:30 | Create a Zotero library |
+| 00:35 | Exercise time (4.1 - 4.3)|
+| 00:50 | Collect references |
+| **01:05** | **Break**|
+| 01:20 | Exercise time (4.4 - 4.6) |
+| 01:30 | From Zotero to a word processor (5.1 - 5.3) |
+| 01:40 | Citation styles (6.1 - 6.2) |
+| 01:50 | Questions, evaluation and conclusion |
 
