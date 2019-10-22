@@ -15,7 +15,7 @@ and will be modified by the current team.
 
 ## Version `2.05`
 
-*updated on September 25, 2019* ([version history](X-references.md))
+*updated on October 22, 2019* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
 You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
