@@ -24,4 +24,4 @@
 
 * [Conclusion](07-conclusion.md)
 * [References & useful links](X-references.md)
-* [Document version history](version.md)
+* [Document version history](X-references.md#version-history)
