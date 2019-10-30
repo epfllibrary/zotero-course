@@ -23,8 +23,8 @@ Zotero is a reference manager. When you use a reference manager, the following t
 
 All these technical tasks should be done by the software, but remember that **you are the brain**. This means that you should:   
 
+* read the documents (:wink)
 * check if the reference data are correct and complete
-* read papers
 * sort references
 * select relevant references to add in the bibliography
 
