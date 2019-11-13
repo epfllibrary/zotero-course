@@ -10,6 +10,8 @@ You will also need to install the Zotero connector for your browser.
 2. Click on the "Install Zotero Connector" button
 3. Autorize installation
 
+:warning: As of November 2019, the Zotero Connector for Safari is unavailable for download, and existing installations will stop working if you upgrade to Safari 13 and/or macOS Catalina. Existing installations will continue to work in Safari 12. The Zotero team is hoping to release a working connector for Safari shortly.
+
 ## How to check if the installation worked ?
 
 Zotero should now be installed on your computer. To fully enjoy Zotero, the software should be plugged in your browser and your word processor (Microsoft Word, OpenOffice Writer, LibreOffice Writer).
