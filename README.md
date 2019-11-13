@@ -5,15 +5,14 @@ These course notes have been created for EPFL Library's training [*Up to speed w
 
 ## Authors
 
-This training was created by the EPFL Library Teaching Team :   
-+ Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
-+ Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
-+ Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
-+ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
-
-and is maintained by the current team : 
+This training was created and is maintained by the EPFL Library Teaching Team, including: 
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch)
+
+Former members:
++ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
++ Caroline Salamin   
++ Noémi Cobolet    
 
 ## Version `2.07`
 
