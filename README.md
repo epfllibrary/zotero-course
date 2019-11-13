@@ -13,7 +13,7 @@ This training was created by the EPFL Library Teaching Team :
 
 and is maintained by the current team : 
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
-+ Miriam Petrilli [miriam.petrilli@epfl.ch(mailto:miriam.petrilli@epfl.ch)
++ Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch)
 
 ## Version `2.07`
 
