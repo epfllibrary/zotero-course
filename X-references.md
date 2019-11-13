@@ -41,8 +41,6 @@ Plugins for Zotero to add features:
 
 **2.05**: some cosmetic updates for forthcoming training (25.09.2019)
 
-**2.05**: some cosmetic updates for forthcoming training (25.09.2019)
-
 **2.06**: preparing forthcoming training (22.10.2019)
 
 **2.07**: update for forthcoming training, edit exercises (13.11.2019)
