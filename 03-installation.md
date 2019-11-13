@@ -10,7 +10,7 @@ You will also need to install the Zotero connector for your browser.
 2. Click on the "Install Zotero Connector" button
 3. Autorize installation
 
-:warning: As of November 2019, the Zotero Connector for Safari is unavailable for download, and existing installations will stop working if you upgrade to Safari 13 and/or macOS Catalina. Existing installations will continue to work in Safari 12. The Zotero team is hoping to release a working connector for Safari shortly.
+:warning: As of November 2019, the Zotero Connector for Safari is unavailable for download, and existing installations will stop working if you upgrade to Safari 13 and/or macOS Catalina. Existing installations will continue to work in Safari 12. The Zotero team is hoping to release a working connector for Safari shortly. We recommend you install [Firefox](https://www.mozilla.org/firefox/new/) as an alternative browser.
 
 ## How to check if the installation worked ?
 
