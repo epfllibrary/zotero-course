@@ -18,8 +18,8 @@ Insert 3 citations and then create a bibliography
 
 ### exercise 5.3 (for LaTeX users only)   
 
-Even if working with LaTeX is not covered in this workshop, try to find how to integrate Zotero in your LaTeX workflow.   
-What do you need to do?
+- If you use Overleaf, what are the steps to link Overleaf to Zotero ?
+- If you use LaTeX locally, you can export your Zotero library to use it with your LaTeX source file : what is the format of the file you need to export from Zotero ?
 
 
 ---
