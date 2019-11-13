@@ -16,7 +16,7 @@ Insert 3 citations and then create a bibliography
 1. Generate a bibliography
 
 
-### exercise 5.3 (for LaTeX users only)   
+### exercise 5.3: Zotero and LaTeX ?
 
 - If you use Overleaf, what are the steps to link Overleaf to Zotero ?
 - If you use LaTeX locally, you can export your Zotero library to use it with your LaTeX source file : what is the format of the file you need to export from Zotero ?
