@@ -11,14 +11,20 @@ This training was created by the EPFL Library Teaching Team :
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 
-and will be modified by the current team. 
+and is maintained by the current team : 
++ Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
++ Miriam Petrilli [miriam.petrilli@epfl.ch(mailto:miriam.petrilli@epfl.ch)
 
-## Version `2.06`
+## Version `2.07`
 
-*updated on October 22, 2019* ([version history](X-references.md))
+*updated on November 13, 2019* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
 You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
+
+## Translation 
+
+If you are interested in the french version of these course notes, please check the corresponding repository : [https://github.com/epfllibrary/zotero-course-fr](https://github.com/epfllibrary/zotero-course-fr).
 
 
 ## License `CC BY`
