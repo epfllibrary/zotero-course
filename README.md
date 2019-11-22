@@ -14,9 +14,9 @@ Former members:
 + Caroline Salamin   
 + Noémi Cobolet    
 
-## Version `2.07`
+## Version `2.08`
 
-*updated on November 13, 2019* ([version history](X-references.md))
+*updated on November 22nd, 2019* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
 You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
