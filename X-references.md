@@ -44,3 +44,5 @@ Plugins for Zotero to add features:
 **2.06**: preparing forthcoming training (22.10.2019)
 
 **2.07**: update for forthcoming training, edit exercises (13.11.2019)
+
+**2.08**: add instruction for SWITCHdrive usage (22.11.2019)
