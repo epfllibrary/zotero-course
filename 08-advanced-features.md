@@ -32,12 +32,12 @@ Choose "WebDAV"
 
 ![](https://i.imgur.com/CFOqceH.png)
 
-4. To make the connection between your Library and SWITCHdrive servers, please define the URL as shown below
+5. To make the connection between your Library and SWITCHdrive servers, please define the URL as shown below
 
 ![](https://i.imgur.com/JL0Wbvp.png)
 
 Username and password are the same as you used to create your SWITCHdrive account
 
-5. Verify the link with the server by clicking the dedicated button
+6. Verify the link with the server by clicking the dedicated button
 
 Synchronisation is now handled through SWITCHdrive.
