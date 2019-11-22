@@ -4,11 +4,10 @@ In this second part of the course note, we will describe advanced features.
 
 EPFL members and  members of universtities and institutions of 
 higher education in Switzerland can use [SWITCHdrive](https://www.switch.ch/drive/). 
-SWITCHdrive gives 50 GB of space to use as cloud storage (to store files, for instance).
+SWITCHdrive gives 50 GB of space to use as a free cloud storage (to store files, for instance).
 
 SWITCHdrive can also be used to get more storage for your Zotero library.
-When you start using Zotero with an account on [zotero.org](zotero.org), you freely get access to 3
-00 MB of storage on Zotero's server. 
+When you start using Zotero with an account on [zotero.org](zotero.org), you freely get access to 300 MB of storage on Zotero's server. 
 
 This space is used to synchronise your libraries on several computers and to provide you with an online version of your library, 
 accessible via an internet browser. 
