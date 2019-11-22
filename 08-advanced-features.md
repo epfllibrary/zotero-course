@@ -27,11 +27,11 @@ SWITCHdrive can do the same, except with a much higher storage size !
 
 5. To make the connection between your Library and SWITCHdrive servers, please define the URL as shown below
 
-  ![](../img/sync_webdav.png)
+  ![webday](../img/sync_webdav.png)
 
 6. Enter your username and password. They are the same you used to create your SWITCHdrive account
 
-  ![](../img/sync_credentials.png)
+  ![credentials](../img/sync_credentials.png)
 
 7. Verify the link with the server by clicking the dedicated button
 
