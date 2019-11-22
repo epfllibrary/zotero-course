@@ -25,3 +25,7 @@
 * [Conclusion](07-conclusion.md)
 * [References & useful links](X-references.md)
 * [Document version history](X-references.md#version-history)
+
+## ADVANCED ZOTERO FEATURES (BETA CONTENT)
+
+* [Using SWITCHdrive](08-advanced-features.md)
