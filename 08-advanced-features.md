@@ -25,11 +25,11 @@ SWITCHdrive can do the same, except with a much higher storage size !
 
 4. From the same pane, you can choose which file storage to use. Choose "WebDAV", as shown below.
 
-![](https://i.imgur.com/CFOqceH.png)
+    ![](https://i.imgur.com/CFOqceH.png)
 
 5. To make the connection between your Library and SWITCHdrive servers, please define the URL as shown below
 
-![](https://i.imgur.com/JL0Wbvp.png)
+    ![](https://i.imgur.com/JL0Wbvp.png)
 
 6. Enter your username and password. They are the same you used to create your SWITCHdrive account
 
