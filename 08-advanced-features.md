@@ -15,9 +15,29 @@ accessible via an internet browser.
 
 SWITCHdrive can do the same, except with a much higher storage size !
 
-**If you want to benefit from this space, here is how : **
+**If you want to benefit from this space, here is how :**
 
 1. Register on 
 [SWITCHdrive registration page](https://eduid.ch/web/registration/method/?target=https%3A%2F%2Flogin.eduid.ch%2Fidp%2Fprofile%2FSAML2%2FUnsolicited%2FSSO%3FproviderId%3Dhttps%253A%252F%252Fcloud-id.switch.ch%252Fshibboleth%26target%3Dhttps%253A%252F%252Fcloud-id.switch.ch%252Fregister%252Fdrive)
 
 2. Open Zotero and go to Preferences > Sync
+
+3. From this pane, you can change your synchronisation settings.
+
+First, make sure data syncing is set up. You will need to have a Zotero account for this.
+
+4. From the same pane, you can choose which file storage to use.
+
+Choose "WebDAV"
+
+![](https://i.imgur.com/CFOqceH.png)
+
+4. To make the connection between your Library and SWITCHdrive servers, please define the URL as shown below
+
+![](https://i.imgur.com/JL0Wbvp.png)
+
+Username and password are the same as you used to create your SWITCHdrive account
+
+5. Verify the link with the server by clicking the dedicated button
+
+Synchronisation is now handled through SWITCHdrive.
