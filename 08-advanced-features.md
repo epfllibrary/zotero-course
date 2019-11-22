@@ -21,13 +21,9 @@ SWITCHdrive can do the same, except with a much higher storage size !
 
 2. Open Zotero and go to Preferences > Sync
 
-3. From this pane, you can change your synchronisation settings.
+3. From this pane, you can change your synchronisation settings. Make sure data syncing is set up. You will need to have a Zotero account for this.
 
-First, make sure data syncing is set up. You will need to have a Zotero account for this.
-
-4. From the same pane, you can choose which file storage to use.
-
-Choose "WebDAV"
+4. From the same pane, you can choose which file storage to use. Choose "WebDAV", as shown below.
 
 ![](https://i.imgur.com/CFOqceH.png)
 
@@ -35,8 +31,8 @@ Choose "WebDAV"
 
 ![](https://i.imgur.com/JL0Wbvp.png)
 
-Username and password are the same as you used to create your SWITCHdrive account
+6. Enter your username and password. They are the same you used to create your SWITCHdrive account
 
-6. Verify the link with the server by clicking the dedicated button
+7. Verify the link with the server by clicking the dedicated button
 
 Synchronisation is now handled through SWITCHdrive.
