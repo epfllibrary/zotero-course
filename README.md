@@ -6,6 +6,7 @@ These course notes have been created for EPFL Library's training [*Up to speed w
 ## Authors
 
 This training was created and is maintained by the EPFL Library Teaching Team, including: 
++ Angélique Boschung [angelique.boschung@epfl.ch](mailto:angelique.boschung@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch)
 
@@ -16,7 +17,7 @@ Former members:
 
 ## Version `2.08`
 
-*updated on November 22nd, 2019* ([version history](X-references.md))
+*updated on February 20, 2020* ([version history](X-references.md))
 
 The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
 You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
