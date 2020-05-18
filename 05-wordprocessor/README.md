@@ -11,10 +11,10 @@ It's also possible to use Zotero with LaTeX.
 
 ### With Overleaf
 
-To connect overleaf with your Zotero library go to "settings" and look for "link to Zotero". Your overleaf account is now linked to your Zotero library.
+To connect Overleaf with your Zotero library go to "settings" and look for "link to Zotero". Your overleaf account is now linked to your Zotero library.
 In your paper, create a new file uploaded from Zotero with the .bib extension. This file contains your entire Zotero library in bibtex format. For each reference, the first line is the key you have to use for citing.
 
 Example: \cite{jawahar_viena_2019}
 
-### With TexMaker
-Export your references from Zotero in a bibtex file. The file will not be up to date in case if you add, modify or remove references in Zotero. Use the keys in the same way as previously for citing.
+### With TexMaker or another LaTeX editor.
+Export your references from Zotero in a bibtex file. The file will not be up to date in case if you add, modify or remove references in Zotero. Use the keys in the same way as previously for citing. For advanced use of LaTeX within Zotero, [BetterBibTex](https://retorque.re/zotero-better-bibtex/), an independently developped plug-in can be useful
