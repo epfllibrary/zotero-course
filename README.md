@@ -19,8 +19,7 @@ Former members:
 
 *updated on February 20, 2020* ([version history](X-references.md))
 
-The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
-You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
+The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)
 
 ## Translation 
 
