@@ -1,10 +1,17 @@
 In this second part of the course note, we will describe advanced features. 
 
+# Enabling unlimited storage as an EPFL member
+
+As of November 2020, the EPFL has an institutional subscription for all EPFL members who use Zotero.
+To have access to this storage, you must set your @epfl.ch e-mail address as primary or secondary e-mail in your Zotero account.
+If you want to modify the address e-mail of Zotero account, you should go to zotero.org, log in and click on your name. In the menu under your name, select settings. You will land on your Zotero profile. Change to 'Account' to land on the page where you will have the ability to modify the e-mail(s) linked to your account.
+
+
 # Using WebDav storage : how to set SWITCHdrive up
 
 EPFL members and  members of universtities and institutions of 
 higher education in Switzerland can use [SWITCHdrive](https://www.switch.ch/drive/). 
-SWITCHdrive gives 50 GB of space to use as a free cloud storage (to store files, for instance).
+SWITCHdrive gives 50 GB of space to use as a free cloud storage (to store files, for instance). However, **if you are affiliated with EPFL, you can rely on the unlimited storage described above**
 
 SWITCHdrive can also be used to get more storage for your Zotero library.
 When you start using Zotero with an account on [zotero.org](zotero.org), you freely get access to 300 MB of storage on Zotero's server. 
