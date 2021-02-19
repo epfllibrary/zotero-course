@@ -28,4 +28,4 @@
 
 ## ADVANCED ZOTERO FEATURES (BETA CONTENT)
 
-* [Using SWITCHdrive](08-advanced-features.md)
+* [Setting up additional storage](08-advanced-features.md)
