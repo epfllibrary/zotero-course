@@ -23,7 +23,7 @@ The latest version of this document is available on **gitbook**: [https://go.epf
 
 ## Translation 
 
-If you are interested in the french version of these course notes, please check the corresponding repository : [https://github.com/epfllibrary/zotero-course-fr](https://github.com/epfllibrary/zotero-course-fr).
+If you are interested in the french version of these course notes, please check the corresponding repository : [https://go.epfl.ch/zotbook-fr](https://go.epfl.ch/zotbook-fr).
 
 
 ## License `CC BY`
