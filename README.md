@@ -6,12 +6,12 @@ These course notes have been created for EPFL Library's training [*Up to speed w
 ## Authors
 
 This training was created and is maintained by the EPFL Library Teaching Team, including: 
-+ Angélique Boschung [angelique.boschung@epfl.ch](mailto:angelique.boschung@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch)
 
 Former members:
-+ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
++ Angélique Boschung
++ Raphaël Grolimund
 + Caroline Salamin   
 + Noémi Cobolet    
 
@@ -19,7 +19,7 @@ Former members:
 
 *updated on February 20, 2020* ([version history](X-references.md))
 
-The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)
+The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotnotes](https://go.epfl.ch/zotnotes)
 
 ## Translation 
 
