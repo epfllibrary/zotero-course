@@ -6,11 +6,12 @@
 | free license | owned by<br/>Clarivate Analytics | owned by<br/>Elsevier | owned by<br/>Digital Science &<br/>Research Solutions, Inc. | free license |
 | free of charge | CHF 275 CHF* | free of charge | $60/year** | free of charge |
 | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) |
-| integrated<br/>with<br/>(Word)<br/>(OpenOffice)<br/>LaTeX | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>LaTeX |
+| integrated<br/>with<br/>(Word)<br/>(OO/LO***)<br/>LaTeX | integrated<br/>with<br/>Word<br/>OO/LO***<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OO/LO***<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OO/LO***<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OO/LO***<br/>LaTeX |
 | ???<br/>citation<br/>styles | 6,000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles |
 
 \* student discount: CHF 127.67 (in Switzerland)   
 \** student discount: $36/year
+\*** OO/LO: Open Office / Libre Office
 
 
 ## Why a reference manager?
