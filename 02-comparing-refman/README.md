@@ -4,13 +4,13 @@
 | :----: | :-----: | :------: | :------: | :----: |
 | BibTeX | EndNote | Mendeley | Papers/ReadCube | Zotero |
 | free license | owned by<br/>Clarivate Analytics | owned by<br/>Elsevier | owned by<br/>Digital Science &<br/>Research Solutions, Inc. | free license |
-| free of charge | $249.95* | free of charge | $55/year** | free of charge |
+| free of charge | CHF 275 CHF* | free of charge | $60/year** | free of charge |
 | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) |
-| integrated<br/>with<br/><br/><br/>LaTeX | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>LaTeX |
+| integrated<br/>with<br/>(Word)<br/>(OpenOffice)<br/>LaTeX | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OpenOffice<br/>LaTeX |
 | ???<br/>citation<br/>styles | 6,000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles |
 
-\* student discount: CHF 118.- (in Switzerland)   
-\** student discount: 30%
+\* student discount: CHF 127.67 (in Switzerland)   
+\** student discount: $36/year
 
 
 ## Why a reference manager?
