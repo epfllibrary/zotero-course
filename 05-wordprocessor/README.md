@@ -16,5 +16,17 @@ In your paper, create a new file uploaded from Zotero with the .bib extension. T
 
 Example: \cite{jawahar_viena_2019}
 
+#### Overleaf and group libraries
+
+A great feature of both Zotero and Overleaf is the ability to work collaboratively. However, synchronising Zotero group librairies with Overlead requires some extra steps.
+You will need to:
+1. Make your Zotero group library public (Public: Closed Membership / Group Library: Anyone can view, only members can edit)
+
+2. Find the unique number of your Zotero group library by opening the group via Zotero.org
+
+[add image]
+
+3. Add a .bib file from an external URL with the following URL: https://api.zotero.org/groups/[unique group id]/items/top?format=bibtex&style=numeric&limit=100
+
 ### With TexMaker or another LaTeX editor.
 Export your references from Zotero in a bibtex file. The file will not be up to date in case if you add, modify or remove references in Zotero. Use the keys in the same way as previously for citing. For advanced use of LaTeX within Zotero, [BetterBibTex](https://retorque.re/zotero-better-bibtex/), an independently developped plug-in can be useful
