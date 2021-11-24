@@ -8,10 +8,8 @@ There are various Zotero features that were not covered in this workshop, such a
 - Working in groups with Zotero
 - RSS feeds 
 - Increase storage space using a WebDav-enabled 3rd party platform
-- Adding notes and tags to references
 - How to use annotated PDFs within Zotero
 - Advanced PDF management with Zotfile
-- Using Zotero with LaTeX
 
 Don't hesitate to ask us if you want explanations about these features.
 
