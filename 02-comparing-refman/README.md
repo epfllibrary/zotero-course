@@ -4,7 +4,7 @@
 | :----: | :-----: | :------: | :------: | :----: |
 | BibTeX | EndNote | Mendeley | Papers/ReadCube | Zotero |
 | free license | owned by<br/>Clarivate Analytics | owned by<br/>Elsevier | owned by<br/>Digital Science &<br/>Research Solutions, Inc. | free license |
-| free of charge | CHF 275 CHF* | free of charge | $60/year** | free of charge |
+| free of charge | 275,- CHF* | free of charge | $60/year** | free of charge |
 | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) |
 | integrated<br/>with<br/>(Word)<br/>(OO/LO***)<br/>LaTeX | integrated<br/>with<br/>Word<br/>OO/LO***<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OO/LO***<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OO/LO***<br/>(LaTeX) | integrated<br/>with<br/>Word<br/>OO/LO***<br/>LaTeX |
 | ???<br/>citation<br/>styles | 6,000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles | 9'000+<br/>citation<br/>styles |
