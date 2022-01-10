@@ -1,7 +1,7 @@
 # Up to speed with Zotero
 
 ## Description
-These course notes have been created for EPFL Library's training [*Up to speed with Zotero - quick start workshop*](https://www.epfl.ch/campus/library/services/training/training-phd-students-researchers/), in Lausanne, Switzerland. Slides for this training are available on HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
+These course notes have been created for EPFL Library's training [*Up to speed with Zotero - quick start workshop*](https://www.epfl.ch/campus/library/services/training/training-phd-students-researchers/), in Lausanne, Switzerland. Slides for this training are available on [https://go.epfl.ch/ztart2022](https://go.epfl.ch/ztart2022).
 
 ## Authors
 
