@@ -7,7 +7,7 @@ These course notes have been created for EPFL Library's training [*Up to speed w
 
 This training was created and is maintained by the EPFL Library Teaching Team, including: 
 + Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch)
-+ Vincenzo Palatella [vincenzo.palatella@epfl.ch] (mailto:vincenzo.palatella@epfl.ch)
++ Vincenzo Palatella [vincenzo.palatella@epfl.ch](mailto:vincenzo.palatella@epfl.ch)
 
 Former members:
 + Angélique Boschung
