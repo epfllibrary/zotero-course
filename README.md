@@ -6,14 +6,15 @@ These course notes have been created for EPFL Library's training [*Up to speed w
 ## Authors
 
 This training was created and is maintained by the EPFL Library Teaching Team, including: 
-+ Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch)
++ Vincenzo Palatella [vincenzo.palatella@epfl.ch] (mailto:vincenzo.palatella@epfl.ch)
 
 Former members:
 + Angélique Boschung
 + Raphaël Grolimund
 + Caroline Salamin   
-+ Noémi Cobolet    
++ Noémi Cobolet
++ Mathilde Panes 
 
 ## Version `2.08`
 
