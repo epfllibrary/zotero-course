@@ -1,7 +1,7 @@
 ## How to install Zotero?
 
 1. Go on [https://www.zotero.org/download/](https://www.zotero.org/download/)
-2. Download Zotero 5.0
+2. Download Zotero 6.0
 3. Run the installation file
 
 You will also need to install the Zotero connector for your browser.
