@@ -1,5 +1,8 @@
 ## Comparing reference managers
 
+![](../img/Comparaison2023.PNG)
+
+<!--
 | ![logo BibTeX](../img/refman_bibtex.png) | ![logo EndNote](../img/refman_endnote.jpg) | ![logo Mendeley](../img/refman_mendeley.png) | ![logo ReadCube](../img/refman_readcube.png) | ![logo Zotero](../img/refman_zotero.png) |
 | :----: | :-----: | :------: | :------: | :----: |
 | BibTeX | EndNote | Mendeley | Papers/ReadCube | Zotero |
@@ -12,6 +15,7 @@
 \* student discount: CHF 127.67 (in Switzerland)   
 \** student discount: $36/year
 \*** OO/LO: Open Office / Libre Office
+-->
 
 
 ## Why a reference manager?
