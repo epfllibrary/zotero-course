@@ -11,9 +11,9 @@ Insert 3 citations and then create a bibliography
 
 1. Write a few lines about your area of expertise.
 
-1. In your text, cite at least 3 documents that are saved in Zotero. TIPS: use the Zotero button in your word processor +  you are free to select any citation style.   
+2. In your text, cite at least 3 documents that are saved in Zotero. TIPS: use the Zotero button in your word processor +  you are free to select any citation style.   
 
-1. Generate a bibliography
+3. Generate a bibliography
 
 
 ### exercise 5.3: Zotero and LaTeX ?
